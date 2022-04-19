@@ -1,4 +1,4 @@
-Preview: https://kirinyoku.github.io/faq-accordion-card-main/
+Preview: https://kirinyoku.github.io/frontend-mentor-faq-accordion-card/
 
 # Frontend Mentor - FAQ accordion card
 
